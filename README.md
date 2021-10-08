@@ -1,5 +1,6 @@
 # mv-ruby-library
 
+> This is a Microverse exercise on creating classes and objects in Ruby, implementing encapsulation, inheritance, composition with Ruby, setting up associations between classes and objects, using the Decorator design pattern to validate and correct the names of people. and run the program using the command line.
 ## Built With
 
 - Ruby

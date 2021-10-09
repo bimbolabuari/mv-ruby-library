@@ -33,7 +33,7 @@ def create_person(people)
   end
   case type
   when '1'
-    people.push(Student.new(age, permission, name))
+    people.push(Student.new(age, name, permission))
     puts 'Person created successfully'
     puts ''
   when '2'

@@ -1,4 +1,4 @@
-require 'Person'
+require './Person'
 
 class Student < Person
   attr_reader :classroom
